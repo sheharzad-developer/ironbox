@@ -1,0 +1,484 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Preview for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-10 08:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: main.php:260
+msgid ""
+"<strong>Please update all BeRocket plugins to the most recent version. "
+"Product Preview for WooCommerce is not working correctly with older versions."
+"</strong>"
+msgstr ""
+
+#: main.php:560
+msgid "After Add to cart button"
+msgstr ""
+
+#: main.php:557
+msgid "After Image"
+msgstr ""
+
+#: main.php:559
+msgid "After Price"
+msgstr ""
+
+#: main.php:558
+msgid "After Title"
+msgstr ""
+
+#: templates/style_section.php:9
+msgid "Background color"
+msgstr ""
+
+#: main.php:556
+msgid "Before all"
+msgstr ""
+
+#: main.php:637
+msgid "Before Close"
+msgstr ""
+
+#: main.php:625
+msgid "Before Open"
+msgstr ""
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr ""
+
+#: templates/style_section.php:274
+msgid "Border around close button"
+msgstr ""
+
+#: templates/style_section.php:169
+msgid "Border around preview"
+msgstr ""
+
+#: templates/style_section.php:10
+msgid "Border color"
+msgstr ""
+
+#: templates/style_section.php:530 templates/style_section.php:604
+msgid "Border radius"
+msgstr ""
+
+#: templates/style_section.php:389 templates/style_section.php:456
+msgid "Border width"
+msgstr ""
+
+#: templates/style_section.php:209 templates/style_section.php:231
+#: templates/style_section.php:253 templates/style_section.php:283
+#: templates/style_section.php:305 templates/style_section.php:354
+#: templates/style_section.php:407 templates/style_section.php:429
+#: templates/style_section.php:476 templates/style_section.php:498
+#: templates/style_section.php:542 templates/style_section.php:572
+#: templates/style_section.php:616 templates/style_section.php:638
+#: templates/style_section.php:656
+msgid "Bottom"
+msgstr ""
+
+#: main.php:552
+msgid "Button position"
+msgstr ""
+
+#: templates/style_section.php:646 templates/style_section.php:664
+msgid "Center"
+msgstr ""
+
+#: main.php:570
+msgid "Clone from data"
+msgstr ""
+
+#: templates/style_section.php:38
+msgid "Close button background color"
+msgstr ""
+
+#: templates/style_section.php:62
+msgid "Close button background color when mouse over"
+msgstr ""
+
+#: templates/style_section.php:63
+msgid "Close button border color"
+msgstr ""
+
+#: templates/style_section.php:37
+msgid "Close button color"
+msgstr ""
+
+#: templates/style_section.php:61
+msgid "Close button color when mouse over"
+msgstr ""
+
+#: templates/style_section.php:272
+msgid "Close button position"
+msgstr ""
+
+#: templates/style_section.php:273
+msgid "Close button size"
+msgstr ""
+
+#: templates/style_section.php:6
+msgid "Color"
+msgstr ""
+
+#: templates/style_section.php:342
+msgid "Corner round"
+msgstr ""
+
+#: main.php:601
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: main.php:656
+msgid "Display on product preview"
+msgstr ""
+
+#: main.php:566
+msgid "Display style [DEPRECATED]"
+msgstr ""
+
+#: main.php:605
+msgid ""
+"Don't load Font Awesome css files on site front end. Use it only if you "
+"don't use Font Awesome icons in widgets or your theme has Font Awesome."
+msgstr ""
+
+#: main.php:612
+msgid "Font Awesome 4"
+msgstr ""
+
+#: main.php:613
+msgid "Font Awesome 5"
+msgstr ""
+
+#: main.php:608
+msgid "Font Awesome Version"
+msgstr ""
+
+#: templates/style_section.php:394 templates/style_section.php:525
+#: templates/style_section.php:599
+msgid "Font size"
+msgstr ""
+
+#: templates/style_section.php:375
+msgid "Gallery images"
+msgstr ""
+
+#: templates/style_section.php:464
+msgid "Gallery images margin"
+msgstr ""
+
+#: templates/style_section.php:327 templates/style_section.php:384
+#: templates/style_section.php:515 templates/style_section.php:589
+msgid "Height"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/product-preview-for-woocommerce/"
+msgstr ""
+
+#: templates/style_section.php:193
+msgid "Image position"
+msgstr ""
+
+#: templates/style_section.php:188
+msgid "Image width"
+msgstr ""
+
+#: templates/style_section.php:197 templates/style_section.php:214
+#: templates/style_section.php:236 templates/style_section.php:258
+#: templates/style_section.php:288 templates/style_section.php:310
+#: templates/style_section.php:359 templates/style_section.php:412
+#: templates/style_section.php:434 templates/style_section.php:481
+#: templates/style_section.php:503 templates/style_section.php:547
+#: templates/style_section.php:577 templates/style_section.php:621
+#: templates/style_section.php:645 templates/style_section.php:663
+msgid "Left"
+msgstr ""
+
+#: templates/style_section.php:332
+msgid "Line Height"
+msgstr ""
+
+#: templates/style_section.php:178
+msgid "Link"
+msgstr ""
+
+#: templates/style_section.php:12
+msgid "Link color"
+msgstr ""
+
+#: templates/style_section.php:35
+msgid "Link color when mouse over"
+msgstr ""
+
+#: templates/style_section.php:637 templates/style_section.php:655
+msgid "Middle"
+msgstr ""
+
+#: templates/style_section.php:451
+msgid "Minimum width"
+msgstr ""
+
+#: templates/style_section.php:113
+msgid "Next and Previous button background color"
+msgstr ""
+
+#: templates/style_section.php:138
+msgid "Next and Previous button background color when mouse over"
+msgstr ""
+
+#: templates/style_section.php:115
+msgid "Next and Previous button border color"
+msgstr ""
+
+#: templates/style_section.php:140
+msgid "Next and Previous button border color when mouse over"
+msgstr ""
+
+#: templates/style_section.php:114
+msgid "Next and Previous button font color"
+msgstr ""
+
+#: templates/style_section.php:139
+msgid "Next and Previous button font color when mouse over"
+msgstr ""
+
+#: templates/style_section.php:467
+msgid "Next border width"
+msgstr ""
+
+#: templates/style_section.php:465
+msgid "Next button position"
+msgstr ""
+
+#: templates/style_section.php:466
+msgid "Next button size"
+msgstr ""
+
+#: templates/style_section.php:660
+msgid "Next horizontal align"
+msgstr ""
+
+#: templates/style_section.php:651
+msgid "Next vertical align"
+msgstr ""
+
+#: templates/style_section.php:196
+msgid "NONE"
+msgstr ""
+
+#: main.php:631
+msgid "On Open"
+msgstr ""
+
+#: templates/style_section.php:271
+msgid "Padding around image"
+msgstr ""
+
+#: templates/style_section.php:167
+msgid "Padding around preview"
+msgstr ""
+
+#: templates/style_section.php:168
+msgid "Padding from border to text inside"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for WooCommerce which add quick product preview"
+msgstr ""
+
+#: templates/style_section.php:3
+msgid "Preview style"
+msgstr ""
+
+#: templates/style_section.php:563
+msgid "Previous and next icon position"
+msgstr ""
+
+#: templates/style_section.php:562
+msgid "Previous border width"
+msgstr ""
+
+#: templates/style_section.php:560
+msgid "Previous button position"
+msgstr ""
+
+#: templates/style_section.php:561
+msgid "Previous button size"
+msgstr ""
+
+#: templates/style_section.php:642
+msgid "Previous horizontal align"
+msgstr ""
+
+#: templates/style_section.php:633
+msgid "Previous vertical align"
+msgstr ""
+
+#: templates/style_section.php:183
+msgid "Price"
+msgstr ""
+
+#: templates/style_section.php:36
+msgid "Price color"
+msgstr ""
+
+#: main.php:662
+msgid "Product buttons"
+msgstr ""
+
+#: main.php:663
+msgid "Product description"
+msgstr ""
+
+#: main.php:664
+msgid "Product full description"
+msgstr ""
+
+#: main.php:660
+msgid "Product gallery"
+msgstr ""
+
+#: main.php:659
+msgid "Product image"
+msgstr ""
+
+#: main.php:665
+msgid "Product meta"
+msgstr ""
+
+#: main.php:45
+msgid "Product Preview"
+msgstr ""
+
+#: main.php:593
+msgid "Product preview button"
+msgstr ""
+
+#. Name of the plugin
+#: main.php:44
+msgid "Product Preview for WooCommerce"
+msgstr ""
+
+#: main.php:666
+msgid "Product price"
+msgstr ""
+
+#: main.php:661
+msgid "Product title"
+msgstr ""
+
+#: templates/style_section.php:64
+msgid "Quick view background color"
+msgstr ""
+
+#: templates/style_section.php:87
+msgid "Quick view background color when mouse over"
+msgstr ""
+
+#: templates/style_section.php:90
+msgid "Quick view border color"
+msgstr ""
+
+#: templates/style_section.php:372
+msgid "Quick view button"
+msgstr ""
+
+#: templates/style_section.php:374
+msgid "Quick view button margin"
+msgstr ""
+
+#: templates/style_section.php:373
+msgid "Quick view button paddings"
+msgstr ""
+
+#: templates/style_section.php:88
+msgid "Quick view text color"
+msgstr ""
+
+#: templates/style_section.php:89
+msgid "Quick view text color when mouse over"
+msgstr ""
+
+#: main.php:667
+msgid "Related Products. Amount of products:"
+msgstr ""
+
+#: templates/style_section.php:198 templates/style_section.php:219
+#: templates/style_section.php:241 templates/style_section.php:263
+#: templates/style_section.php:293 templates/style_section.php:315
+#: templates/style_section.php:364 templates/style_section.php:417
+#: templates/style_section.php:439 templates/style_section.php:486
+#: templates/style_section.php:508 templates/style_section.php:552
+#: templates/style_section.php:582 templates/style_section.php:626
+#: templates/style_section.php:647 templates/style_section.php:665
+msgid "Right"
+msgstr ""
+
+#: main.php:571
+msgid "Show/Hide"
+msgstr ""
+
+#: templates/style_section.php:163 templates/style_section.php:166
+msgid "Size"
+msgstr ""
+
+#: main.php:527
+msgid "Style"
+msgstr ""
+
+#: templates/style_section.php:173
+msgid "Text"
+msgstr ""
+
+#: templates/style_section.php:11
+msgid "Text color"
+msgstr ""
+
+#: templates/style_section.php:337
+msgid "Text size"
+msgstr ""
+
+#: templates/style_section.php:204 templates/style_section.php:226
+#: templates/style_section.php:248 templates/style_section.php:278
+#: templates/style_section.php:300 templates/style_section.php:349
+#: templates/style_section.php:402 templates/style_section.php:424
+#: templates/style_section.php:471 templates/style_section.php:493
+#: templates/style_section.php:537 templates/style_section.php:567
+#: templates/style_section.php:611 templates/style_section.php:636
+#: templates/style_section.php:654
+msgid "Top"
+msgstr ""
+
+#: main.php:546
+msgid "Use quick view"
+msgstr ""
+
+#: main.php:616
+msgid ""
+"Version of Font Awesome that will be used on front end. Please select "
+"version that you have in your theme"
+msgstr ""
+
+#: templates/style_section.php:322 templates/style_section.php:379
+#: templates/style_section.php:446 templates/style_section.php:520
+#: templates/style_section.php:594
+msgid "Width"
+msgstr ""
